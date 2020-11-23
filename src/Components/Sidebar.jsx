@@ -1,11 +1,18 @@
+import { FiArrowLeft } from "react-icons/fi"
+import { useHistory } from "react-router-dom";
+import '../Styles/Components/sidebar.css'
 
 
-const Sidebar = () => {
+export default function Side() {
+    const { goBack } = useHistory()
     return (
-        <>
-            <h1>Oi</h1>
-        </>
+        <aside className="app-sidebar">
+            <footer>
+                <button type="button" onClick={goBack}>
+                    <FiArrowLeft size={24} color="#FFF" />
+                </button>
+            </footer>
+        </aside>
     )
-}
 
-export default Sidebar
+}
