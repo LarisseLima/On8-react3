@@ -2,50 +2,50 @@ const filmes = [
     {
         id: 1,
         nome: "The Social Dilemma",
-        genero: "documetário",
+        genero: "Documetário",
         capa: "https://miro.medium.com/max/3840/1*CkdmUtjqOvkVIfrCpHiivQ.jpeg"
     },
     {
         id: 2,
-        nome: "Us",
-        genero: "terror",
-        capa: "https://carreiraliteraria.com/wp-content/uploads/2019/04/us.jpg"
+        nome: "Mean Girls",
+        genero: "Comédia",
+        capa: "https://br.web.img3.acsta.net/pictures/210/087/21008705_20130527194056821.jpg"
     },
     {
         id: 3,
-        nome: "Bubble Boy",
-        genero: "comédia romântica",
-        capa: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-_Re5e4tYpz0LzTarsYg48BQ4ksTaW-elPH9WBZ2xijUQI5W-"
+        nome: "A Star Is Born",
+        genero: "Romance/Musical ",
+        capa: "https://3.bp.blogspot.com/-Jr7qzVNmxbk/W8x-m-ZI48I/AAAAAAAAOtc/ibM_6I6BH0EJufrBf6g7A9z-JVYo2s2YgCLcBGAs/s1600/a-star-is-born-nasce%252Buma-estrela%252Blady%252Bgaga%252Bbradley%252Bcooper%252Bresenha%252Bblog%252Bbelle%252Balmeida01.jpg"
     },
     {
         id: 4,
         nome: "Get Out",
-        genero: "terror",
+        genero: "Terror",
         capa: "https://moviesense.files.wordpress.com/2017/05/getout1.jpg"
     },
     {
         id: 5,
-        nome: "Connected",
-        genero: "série",
-        capa: "https://m.media-amazon.com/images/M/MV5BMzVhOTA5MzYtYjk4ZC00M2U0LWI5MTAtM2JlMTEzYzE2M2RlXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg"
+        nome: "The Queen's Gambit",
+        genero: "Série",
+        capa: "https://m.media-amazon.com/images/M/MV5BM2EwMmRhMmUtMzBmMS00ZDQ3LTg4OGEtNjlkODk3ZTMxMmJlXkEyXkFqcGdeQXVyMjM5ODk1NDU@._V1_.jpg"
     },
     {
         id: 6,
-        nome: "Coding, Explained",
-        genero: "série",
-        capa: "https://pro2-bar-s3-cdn-cf.myportfolio.com/82dfc9254a7e7b7bcfbe5a8e0c889e8f/baa2c896-f138-467f-9ce8-891a99b02fc0_car_202x158.png?h=1e743bcb6da22f3e25e05e7d92534a31"
+        nome: "Gossip Girl ",
+        genero: "Série",
+        capa: "https://i.pinimg.com/originals/2d/98/4f/2d984f4ab7773a91df0a8cfcfebee6b2.jpg"
     },
     {
         id: 7,
-        nome: "Sex Education",
-        genero: "série",
-        capa: "https://idris.com.br/dev/wp-content/uploads/2019/01/poltrona-Sex-education-poster.jpg"
+        nome: "Beauty and the Beast",
+        genero: "Fantasia/Romance/Musical",
+        capa: "https://static.wikia.nocookie.net/disney/images/8/81/A_Bela_e_a_Fera_%282017%29_P%C3%B4ster_Nacional_04.jpg/revision/latest?cb=20170113220856&path-prefix=pt-br"
     },
     {
         id: 8,
-        nome: "On My Block",
-        genero: "série",
-        capa: "https://br.web.img2.acsta.net/pictures/18/02/01/11/56/4746129.jpg"
+        nome: "Lúcifer",
+        genero: "Série",
+        capa: "https://i.pinimg.com/originals/aa/9f/a6/aa9fa604f8241af566a6b1b45196a418.jpg"
     }
 ]
 
