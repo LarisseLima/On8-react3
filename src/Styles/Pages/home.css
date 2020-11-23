@@ -2,7 +2,7 @@
     padding: 2rem;
 	width: 100vw;
 	height: 100vh;
-	background: linear-gradient(329.54deg, #720869 0%, #4f2158 100%);
+	background: linear-gradient(329.54deg, #8f2d56 0%, #00171f 100%);
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -27,9 +27,10 @@
 }
 
 #page-landing .content-wrapper main h1 {
-	font-size: 76px;
+	font-size: 86px;
 	font-weight: 900;
-	line-height: 78px;
+    line-height: 78px;
+    margin-top: 40px;
 }
 
 #page-landing .content-wrapper main p {
@@ -57,7 +58,7 @@
 	bottom: 0;
 	width: 80px;
 	height: 80px;
-	background: #ffd666;
+	background: #218380;
 	border-radius: 30px;
 	display: flex;
 	align-items: center;

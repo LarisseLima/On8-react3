@@ -8,8 +8,8 @@ function Home() {
         <div id="page-landing">
             <div className="content-wrapper">
                 <main>
-                    <h1>O que eu faço pra relaxar</h1>
-                    <p>Meu modo favorito de procrastinar</p>
+                    <h1>Os melhores Filmes</h1>
+                    <p> Aclamados pela crítica e usuária 10/10 da Netflix, Larisse Lima</p>
                 </main>
 
                 <Link to="/filmes" className="enter-app">
