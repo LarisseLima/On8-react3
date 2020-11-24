@@ -1,12 +1,12 @@
 import React from 'react';
-import { FiArrowRight } from 'react-icons/fi';
+import { BiCameraMovie } from 'react-icons/bi';
 import { GrUserFemale } from 'react-icons/gr';
 import { Link } from 'react-router-dom';
 import '../Styles/Pages/home.css';
 
 function Home() {
     return (
-        <div id="page-landing">
+        <div id="home">
             <div className="content-wrapper">
                 <main>
                     <h1>Os melhores Filmes</h1>
@@ -14,7 +14,7 @@ function Home() {
                 </main>
 
                 <Link to="/filmes" className="enter-app">
-                    <FiArrowRight size={26} color="rgba(0, 0 , 0, 0.6)" />
+                    <BiCameraMovie size={26} color="rgba(0, 0 , 0, 0.6)" />
                 </Link>
                 <Link to="/bio" className="enter-app-bio">
                     <GrUserFemale size={26} color="rgba(0, 0 , 0, 0.6)" />

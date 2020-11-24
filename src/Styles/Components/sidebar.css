@@ -2,7 +2,7 @@ aside.app-sidebar {
     position: fixed;
     height: 100%;
     padding: 32px 24px;
-    background: linear-gradient(329.54deg,  #d81159 0%,  #8f2d56 100%);
+    background: linear-gradient(329.54deg, #8f2d56 0%, #00171f 100%);
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -15,6 +15,7 @@ aside.app-sidebar {
   
   aside.app-sidebar footer a,
   aside.app-sidebar footer button {
+    margin-top: 30px ;
     width: 48px;
     height: 48px;
     border: 0;
@@ -26,7 +27,6 @@ aside.app-sidebar {
     justify-content: center;
     align-items: center;
   }
-  
   aside.app-sidebar footer a:hover,
   aside.app-sidebar footer button:hover {
     background: #17D6EB;

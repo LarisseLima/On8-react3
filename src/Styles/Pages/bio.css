@@ -79,9 +79,7 @@
 	align-items: center;
 	justify-content: center;
 	transition: background-color 0.2s;
-	
-
-}
+ }
 .content-wrapper .enter-app-redes{
 	padding-top: 150px;
 	margin-right: 60px;
@@ -121,7 +119,7 @@
 	align-items: center;
 	justify-content: center;
 
- }
+ } 
 
 .content-wrapper .enter-app:hover, .enter-app-bio:hover{
 	background: #96feff;

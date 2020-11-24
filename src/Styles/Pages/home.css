@@ -1,4 +1,4 @@
-#page-landing {
+#home {
     padding: 2rem;
 	width: 100vw;
 	height: 100vh;
@@ -8,7 +8,7 @@
 	align-items: center;
 }
 
-#page-landing .content-wrapper {
+#home .content-wrapper {
 	position: relative;
 	width: 100%;
 	max-width: 1100px;
@@ -22,18 +22,18 @@
     background-size: 500px;
 }
 
-#page-landing .content-wrapper main {
+#home .content-wrapper main {
 	max-width: 350px;
 }
 
-#page-landing .content-wrapper main h1 {
+#home .content-wrapper main h1 {
 	font-size: 86px;
 	font-weight: 900;
     line-height: 78px;
     margin-top: 40px;
 }
 
-#page-landing .content-wrapper main p {
+#home .content-wrapper main p {
 	margin-top: 40px;
 	font-size: 24px;
 	line-height: 34px;
@@ -79,8 +79,6 @@
 	align-items: center;
 	justify-content: center;
 	transition: background-color 0.2s;
-	
-
 }
 
 .content-wrapper .enter-app:hover, .enter-app-bio:hover{
