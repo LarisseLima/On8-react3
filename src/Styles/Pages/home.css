@@ -58,7 +58,7 @@
 	bottom: 0;
 	width: 80px;
 	height: 80px;
-	background: #218380;
+	background: #d00000;
 	border-radius: 30px;
 	display: flex;
 	align-items: center;
@@ -73,7 +73,7 @@
 	bottom: 0;
 	width: 80px;
 	height: 80px;
-	background: #218380;
+	background: #d00000;
 	border-radius: 30px;
 	display: flex;
 	align-items: center;
@@ -82,5 +82,5 @@
 }
 
 .content-wrapper .enter-app:hover, .enter-app-bio:hover{
-	background: #96feff;
+	background: #e01e37;
 }

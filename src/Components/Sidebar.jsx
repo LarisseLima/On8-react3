@@ -5,14 +5,16 @@ import '../Styles/Components/sidebar.css'
 
 
 export default function Side() {
-  const { goBack } = useHistory()
+  const { goBack, push } = useHistory()
+
+
   return (
     <aside className="app-sidebar">
       <footer>
         <button type="button" onClick={goBack}>
           <FiArrowLeft size={26} color="#FFF" />
         </button>
-        <button type="button">
+        <button type="button" onClick={push}>
           <GrUserFemale size={26} color="#FFF" />
         </button>
       </footer>
