@@ -1,8 +1,8 @@
 import filmes from '../Services/dados'
-import '../Styles/Pages/filmes.css'
+import '../Styles/Pages/movies.css'
 import Sidebar from '../Components/Sidebar'
 
-const ListaInterna = () => {
+const ListMovies = () => {
 
   return (
     <>
@@ -19,4 +19,4 @@ const ListaInterna = () => {
     </>
   )
 }
-export default ListaInterna
+export default ListMovies

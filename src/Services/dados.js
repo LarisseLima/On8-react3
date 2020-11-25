@@ -19,9 +19,9 @@ const filmes = [
     },
     {
         id: 4,
-        nome: "Get Out",
+        nome: "The Ring",
         genero: "Terror",
-        capa: "https://moviesense.files.wordpress.com/2017/05/getout1.jpg"
+        capa: "https://4.bp.blogspot.com/-9uTogniAHDU/WKCUaLnrwmI/AAAAAAAAAEI/wFBTLZOfQvs24v_BGdrF_YHn9rN_TKBGQCLcB/s1600/2.jpg"
     },
     {
         id: 5,
