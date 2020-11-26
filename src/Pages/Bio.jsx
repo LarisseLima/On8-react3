@@ -19,17 +19,17 @@ function Bio() {
           <h1>Larisse Lima</h1>
           <a href="https://www.linkedin.com/in/larisselima/" className="enter-app-redes"
             target="blank">
-            <AiFillLinkedin size={28} color="rgba(0, 0 , 0, 1.5)" />
+            <AiFillLinkedin size={28} color=" #d00000" />
           </a>
           <a href="https://github.com/LarisseLima" className="enter-app-redes-g"
             target="blank">
-            <AiFillGithub size={28} color="rgba(0, 0 , 0, 1.5)" />
+            <AiFillGithub size={28} color=" #d00000" />
           </a>
           <a href="mailto:larisse.lima2@gmail.com" className="enter-app-redes-e"
             target="blank">
-            <MdEmail size={28} color="rgba(0, 0 , 0, 1.5)" />
+            <MdEmail size={28} color="#d00000" />
           </a>
-          <p> Oi sou a Larisse, Apaixonada por tecnologia e unicórnios 🦄, Com apenas 27 anos. Moro em Recife, sou estudante de Front-end na reprograma. Trabalhei na área industrial, e com vendas. Já fui voluntária em um projeto acadêmico, onde ensinava informática a comunidade carente.
+          <p> Oi sou a Larisse, Apaixonada por tecnologia e unicórnios 🦄, Moro em Recife, amo criar telas bonitas e funcionais. Já fui voluntária em um projeto acadêmico, onde ensinava informática a comunidade carente.
            </p>
         </main>
       </div>
