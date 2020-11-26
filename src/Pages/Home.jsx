@@ -14,10 +14,10 @@ function Home() {
         </main>
 
         <Link to="/movies" className="enter-app">
-          <BiCameraMovie size={26} color="rgba(0, 0 , 0, 0.6)" />
+          <BiCameraMovie size={26} color="#110707" />
         </Link>
         <Link to="/bio" className="enter-app-bio">
-          <GrUserFemale size={26} color="rgba(0, 0 , 0, 0.6)" />
+          <GrUserFemale size={26} color="#110707" />
         </Link>
 
       </div>

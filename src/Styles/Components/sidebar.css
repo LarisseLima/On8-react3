@@ -13,8 +13,8 @@ aside.app-sidebar {
     width: 48px;
   }
   
-  aside.app-sidebar footer a,
-  aside.app-sidebar footer button {
+  aside.app-sidebar main a,
+  aside.app-sidebar main button {
     margin-top: 30px ;
     width: 48px;
     height: 48px;
@@ -27,7 +27,7 @@ aside.app-sidebar {
     justify-content: center;
     align-items: center;
   }
-  aside.app-sidebar footer a:hover,
-  aside.app-sidebar footer button:hover {
-    background: #17D6EB;
+  aside.app-sidebar main a:hover,
+  aside.app-sidebar main button:hover {
+    background:  #e01e37;
   }
