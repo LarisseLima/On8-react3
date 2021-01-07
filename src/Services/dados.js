@@ -39,7 +39,7 @@ const filmes = [
         id: 7,
         nome: "Beauty and the Beast",
         genero: "Fantasia/Romance/Musical",
-        capa: "https://static.wikia.nocookie.net/disney/images/8/81/A_Bela_e_a_Fera_%282017%29_P%C3%B4ster_Nacional_04.jpg/revision/latest?cb=20170113220856&path-prefix=pt-br"
+        capa: "https://lumiere-a.akamaihd.net/v1/images/p_beautyandthebeast_digital_e130e0d8.png"
     },
     {
         id: 8,
